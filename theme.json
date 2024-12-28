@@ -1,0 +1,55 @@
+{
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#ff1fb0",
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"color": "#3c1022",
+					"name": "Main",
+					"slug": "main"
+				},
+				{
+					"color": "#636381",
+					"name": "Secondary",
+					"slug": "secondary"
+				},
+				{
+					"color": "#d0ccde",
+					"name": "Main Accent",
+					"slug": "main-accent"
+				},
+				{
+					"color": "#e4e1fe",
+					"name": "Primary Accent",
+					"slug": "primary-accent"
+				},
+				{
+					"color": "#ffdbf1",
+					"name": "Tertiary",
+					"slug": "tertiary"
+				},
+				{
+					"color": "#DADEE3",
+					"name": "Border Light",
+					"slug": "border-light"
+				},
+				{
+					"color": "#444B57",
+					"name": "Border Dark",
+					"slug": "border-dark"
+				},
+				{
+					"color": "#fff",
+					"name": "Base",
+					"slug": "base"
+				}
+			]
+		}
+	},
+	"version": 3,
+	"$schema": "https://schemas.wp.org/wp/6.6/theme.json"
+}
